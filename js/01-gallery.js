@@ -48,4 +48,3 @@ function openOriginImg(event) {
   }
 }
 
-console.log(galleryItems);
